@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A description of your project",
   "main": "index.js",
+  "type": "commonjs",
   "scripts": {
     "start": "node index.js",
     "test": "jest"
@@ -13,7 +14,6 @@
   },
   "author": "Locket Layne",
   "license": "MIT",
-  "type": "module",  
   "dependencies": {
     "svg.js": "^2.7.1"
   },
